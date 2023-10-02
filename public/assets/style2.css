@@ -1,0 +1,44 @@
+footer {
+	background: #101010;
+	padding: 50px 0;
+}
+.single-box p {
+	color: #fff;
+	line-height: 1.9;
+}
+body {
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+}
+main {
+	flex: 1;
+}
+footer {
+	background-color: rgb(9, 79, 126);
+}
+.redes-sociales{
+	font-size: 30px;
+}
+h4{
+	font-size: 17px;
+}
+.nav-link{
+	color: #fff;
+}
+.fondo{
+width: 100%;
+min-height: 180px;
+color: #fff;
+}
+.my-container {
+	margin-left: 7%;
+	margin-right: 7%;
+	
+}
+.my-navbar-brand {
+	margin-right: 25%;
+}
+.fondo{
+	color: rgb(10, 91, 145);
+}

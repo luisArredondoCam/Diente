@@ -1,0 +1,54 @@
+footer {
+	background: #101010;
+	padding: 50px 0;
+}
+.single-box p {
+	color: #fff;
+	line-height: 1.9;
+}
+body {
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+}
+main {
+	flex: 1;
+}
+footer {
+	background-color: rgb(9, 79, 126);
+}
+.redes-sociales{
+	font-size: 30px;
+}
+h4{
+	font-size: 17px;
+}
+.nav-link{
+	color: #fff;
+}
+p{
+	font-size: 20px;
+	text-align: justify;
+}
+.my-container {
+	margin-left: 7%;
+	margin-right: 7%;
+	
+}
+.my-navbar-brand {
+	margin-right: 25%;
+}
+@keyframes cambio-color {
+    0% { color: rgb(113, 109, 109); } 
+    50% { color: rgb(0, 0, 0); } 
+}
+.texto-animated:hover {
+    animation: cambio-color 60s infinite;
+}
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+    .texto-h{
+		padding:0 30px;
+	}
+}
+
+  

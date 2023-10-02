@@ -1,0 +1,13 @@
+.gradient-custom {
+    /* fallback for old browsers */
+
+    background-image: url(../images/luis.avif);
+    background-repeat: no-repeat;
+    height: 100%;
+
+    /* Centrar y escalar la imagen correctamente */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
